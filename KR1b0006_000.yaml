@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1b0006/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部二
+  hash: sha256:0cc932f81e16f40609470aaa0474e8369dec60a220254d8de2f21651552b055d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1b0006_WYG_000-1a, image: WYG0054/WYG0054-0485a.png}
+body:
+  text: 書傳書類提要臣等謹案書傳二十卷宋蘇軾撰尚書所載皆帝王大政軾究心經世之學明于事勢而又長于議論故其詮解經義於治亂興亡之故披抉明暢較他經獨為擅長其釋禹貢三江定為南江中江北江本諸鄭康成逺有端緒但未嘗詳審經文考核水道而附益以味别之說遂以啓後人之譏議至于以羲和曠職為二於羿而忠于夏則林之奇宗之以康王之誥服冕為非禮引左傳叔向之言為證則蔡沈取之朱子亦稱其解吕刑篇以荒度作刑為句甚合于理則皆卓然具有特見朱子雖有惜其太簡之說然漢代訓詁文多簡質自孔賈以後徴引始繁軾文如萬斛源泉隨地涌出非不能曼衍其詞當以解經之體詞貴典要故斂才就範但取詞逹而止未可以繁省為優劣也乾隆四十三年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:57c5a4debf3ffe5abf594872506eb62235ebc47e26f034f51d2174a25b53c60d
+metadata:
+  title: 書傳
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:01:33.045651'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR1b0006/KR1b0006_000.txt
+hash: sha256:e3d45a8badc4a195758d1146732639db54fa664f683b2a4c882f6bacb405d06f
